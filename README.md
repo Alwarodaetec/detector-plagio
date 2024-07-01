@@ -23,5 +23,5 @@ Bem-vindo ao Detector Automático de Plágio Acadêmico! Este projeto implementa
 
 ---
 
-🚀⭐
+🚀🚀🚀
 
