@@ -1,5 +1,5 @@
 import re
-
+aaaaaa
 class Analise:
     def le_assinatura(self):
         print("\nInforme os traços linguísticos que deseja fazer a comparação:\n")
